@@ -1,20 +1,3 @@
-def solution(a,b)
-  if a.length < b.leng
-end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def solution(a, b)
   if a.length < b.length
     a + b + a
