@@ -1,3 +1,7 @@
-numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
-
-puts numbers.sum
+def sum(numbers)
+  total = 0
+  numbers.each do |number|
+    total += number
+  end
+  total
+end
