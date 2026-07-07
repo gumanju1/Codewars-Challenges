@@ -21,6 +21,3 @@ puts get_middle("A")
 
 #another method
 $websites << "codewars"
-
-#Sample Test
-#Test.assert_equals($websites, ["codewars"])
