@@ -1,1 +1,3 @@
-puts 2 + 2 * 2
+def calculate
+  (2 + 2) * 2
+end
