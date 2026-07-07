@@ -5,3 +5,8 @@ def sum(numbers)
   end
   total
 end
+
+# another solution
+def sum(numbers)
+  number.sum
+end
