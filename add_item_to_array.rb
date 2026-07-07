@@ -18,3 +18,9 @@ puts get_middle("test")
 puts get_middle("testing")
 puts get_middle("middle")
 puts get_middle("A")
+
+#another method
+$websites << "codewars"
+
+#Sample Test
+#Test.assert_equals($websites, ["codewars"])
