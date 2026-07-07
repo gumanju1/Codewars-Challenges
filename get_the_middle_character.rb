@@ -1,10 +1,4 @@
-def add_item (array, item)
-  array << item
-end
-
-numbers = [1, 2, 3]
-
-p add_item(numbers, 4)def get_middle(s)
+def get_middle(s)
   middle = s.length / 2
 
   if s.length.even?
