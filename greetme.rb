@@ -33,8 +33,6 @@ puts greet("alice")
 
 
 
-
-
 #sampletests
 puts greet("riley")    # "Hello Riley!"
 puts greet("JACK")     # "Hello Jack!"

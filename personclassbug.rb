@@ -16,6 +16,11 @@ end
 
 
 
+person = Person.new("Sweta", "Gumanju", 24)
+
+puts person.full_name
+puts person.age
+
 
 
 
