@@ -3,6 +3,10 @@ def greet(name)
 end
 
 
+puts greet("sweta")
+puts greet("riley")
+puts greet("JACK")
+puts greet("alice")
 
 
 
